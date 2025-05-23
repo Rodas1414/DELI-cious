@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2498917c-68a3-424a-a50c-e41aa2fe11db" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CSC143" beforeDir="false" afterPath="$PROJECT_DIR$/../CSC143" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/danu" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/practice.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 4 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 4 2/p4geom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 4 2/project4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 4 3/p4geom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 4 3/project4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 4.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 5 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 5.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/Main.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/MusicTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/MusicTrack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/MusicTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/final-copy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/final-copy/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/final-copy/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /Language.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /Language.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /Language.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageInterface$Type.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageInterface.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageManager.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageManager.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageManager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageManagerInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageManagerInterface.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /LanguageManagerInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/ZZZTestLang.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/basic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/c.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/cplusplus.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/csharp.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/fortran.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/java.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/javascript.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/languages.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/pascal.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /datafiles/python.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/language /package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Main.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/Main.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/MusicTrack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/MusicTrack.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/MusicTrack.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /Musictrack/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone8.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone8Mini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone8Mini.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone8Mini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone9.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone9Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone9Max.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhone9Max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneX.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneXFilm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneXFilm.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneXFilm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneXFold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneXFold.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /OPhoneXFold.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6 /package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/Main.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone8.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone8Mini.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone8Mini.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone8Mini.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone9.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone9Max.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone9Max.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhone9Max.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneX.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneX.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneX.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneXFilm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneXFilm.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneXFilm.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneXFold.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneXFold.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/OPhoneXFold.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7-copy/project 6-copy/package.bluej" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7/TestCustDataFixup.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7/customer_data_cleaner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 7/project 7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 8 2 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 8 2.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 8 2/PollutionSummary.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 8 2/RiverPollutionData (2).txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 8 2/project 8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project 8.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csc110/project4.py.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../it115/Class-project-IT115-End-of-year" beforeDir="false" afterPath="$PROJECT_DIR$/../it115/Class-project-IT115-End-of-year" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../it115/Sprint-2" beforeDir="false" afterPath="$PROJECT_DIR$/../it115/Sprint-2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../it115/superLinterAssignment9" beforeDir="false" afterPath="$PROJECT_DIR$/../it115/superLinterAssignment9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../screen shoots/Screenshot 2024-10-07 at 7.29.00 in the evening.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../term project/Rodas.G_ resume (2).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../venv/lib/python3.12/site-packages/pip/_vendor/rich/default_styles.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2xVIuuXCG1uGyJ2CdtoPzIzs4CQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/rodastesfay/Desktop/Delicious"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2498917c-68a3-424a-a50c-e41aa2fe11db" name="Changes" comment="" />
+      <created>1748017039834</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748017039834</updated>
+    </task>
+    <servers />
+  </component>
+</project>
