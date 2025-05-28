@@ -1,0 +1,5 @@
+Order: 2025-05-27T18:51:50.167569
+Sandwiches: [FOUR_INCH Sandwich on WHEAT, Meats: {BACON=1}, Cheeses: {}, Toppings: [], Sauces: [RANCH], Toasted: false]
+Drinks: []
+Chips: []
+Total: $6.5

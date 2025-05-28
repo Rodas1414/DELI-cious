@@ -11,7 +11,7 @@ public class HomeGui {
 
             JPanel panel = new JPanel();
             panel.setLayout(new GridBagLayout());
-            panel.setBackground(new Color(255, 245, 230));
+            panel.setBackground(new Color(46, 44, 41));
 
             JLabel title = new JLabel("Welcome to DELI-cious POS");
             title.setFont(new Font("SansSerif", Font.BOLD, 24));
