@@ -1,0 +1,5 @@
+Order: 2025-05-23T10:10:32.664935
+Sandwiches: [TWELVE_INCH Sandwich on RYE, Meats: {BACON=1}, Cheeses: {CHEDDAR=1}, Toppings: [LETTUCE], Sauces: [RANCH], Toasted: true, FOUR_INCH Sandwich on WHEAT, Meats: {BACON=1}, Cheeses: {CHEDDAR=1}, Toppings: [LETTUCE], Sauces: [RANCH], Toasted: true]
+Drinks: []
+Chips: [MEDIUM Chips - chirtos]
+Total: $23.0
