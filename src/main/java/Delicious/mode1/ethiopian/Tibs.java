@@ -11,6 +11,7 @@ public class Tibs {
     private Spiciness spiceLevel;
     private boolean withAwaze;
     private boolean withMitmita;
+    private boolean withenjera ;
 
     public Tibs(boolean isRaw, boolean hasButter, boolean withOnion,
                 Spiciness spiceLevel, boolean withAwaze, boolean withMitmita) {
