@@ -1,0 +1,7 @@
+Order: 2025-05-27T20:30:55.629108
+Sandwiches: [FOUR_INCH Sandwich on WHEAT, Meats: {STEAK=2, HAM=2, ROAST_BEEF=2, CHICKEN=19}, Cheeses: {}, Toppings: [], Sauces: [MUSTARD, KETCHUP, RANCH], Toasted: true, Signature Sandwich: BLT
+EIGHT_INCH Sandwich on WHITE, Meats: {BACON=1}, Cheeses: {CHEDDAR=1}, Toppings: [LETTUCE, TOMATOES], Sauces: [RANCH], Toasted: true, Signature Sandwich: Philly Cheese Steak
+EIGHT_INCH Sandwich on WHITE, Meats: {STEAK=1}, Cheeses: {AMERICAN=1}, Toppings: [PEPPERS], Sauces: [MAYO], Toasted: true]
+Drinks: [MEDIUM Drink - Flavor: coca]
+Chips: [LARGE Chips - chips]
+Total: $56.5

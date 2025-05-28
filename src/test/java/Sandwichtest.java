@@ -1,10 +1,9 @@
-package Delicious.mode1;
-
+import Delicious.mode1.Sandwich;
 import Delicious.mode1.enums.*;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
-class SandwichTest {
+class Sandwichtest {
 
     @Test
     void testBasicFourInchSandwich() {
