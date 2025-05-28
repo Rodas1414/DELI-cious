@@ -1,3 +1,6 @@
+package test.Test;
+
+
 import Delicious.mode1.*;
 import Delicious.mode1.enums.*;
 import org.junit.jupiter.api.Test;
