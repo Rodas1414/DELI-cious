@@ -1,0 +1,5 @@
+Order: 2025-05-28T09:59:45.904315
+Sandwiches: [FOUR_INCH Sandwich on WHEAT, Meats: {STEAK=2, ROAST_BEEF=2, CHICKEN=1}, Cheeses: {CHEDDAR=2, PROVOLONE=2}, Toppings: [LETTUCE, ONIONS, TOMATOES, CUCUMBERS, PICKLES], Sauces: [MAYO, KETCHUP, RANCH], Toasted: true]
+Drinks: [MEDIUM Drink - Flavor: coca]
+Chips: []
+Total: $16.0
