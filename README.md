@@ -140,13 +140,13 @@ Or run individual test files from your IDE.
 
 ## ✨ Screenshots
 
-> ![Order GUI](image/homegui.png)
-> ![Receipt Sample](image/receipt.png)
-> ![Step one(image/step 1.png)
-> ![Step 2(image/secoundway.png)
-> ![Step 3(image/step 3.png)
-> ![Step 4(image/step 4.png)
-> ![Step 5(image/step 5.png)
+> ![Order GUI](Image/homegui.png)
+> ![Receipt Sample](Image/receipt.png)
+> ![Step one](Image/step 1.png)
+> ![Step 2](Image/secoundway.png)
+> ![Step 3](Image/step 3.png)
+> ![Step 4](Image/step 4.png)
+> ![Step 5](Image/step 5.png)
 
 ---
 
