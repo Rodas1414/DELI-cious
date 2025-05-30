@@ -140,6 +140,7 @@ Or run individual test files from your IDE.
 
 ## ✨ Screenshots
 
+> ![Diagram](Image/Diagram.png)
 > ![Order GUI](Image/homegui.png)
 > ![Receipt Sample](Image/R.png)
 > ![Step one](Image/1.png)
@@ -153,11 +154,4 @@ Or run individual test files from your IDE.
 ## 🧑‍💻 Author
 
 **Rodas Gebreyohannes**  
-Student Developer • Full-Stack Enthusiast • Java Nerd
-
----
-
-## 📄 License
-
-MIT License. Use it, improve it, share it 🍽️
-
+:)
