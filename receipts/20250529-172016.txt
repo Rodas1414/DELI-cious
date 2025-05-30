@@ -1,0 +1,5 @@
+Order: 2025-05-29T17:20:16.063935
+Sandwiches: [FOUR_INCH Sandwich on WHEAT, Meats: {}, Cheeses: {}, Toppings: [], Sauces: [], Toasted: false]
+Drinks: []
+Chips: []
+Total: $5.5

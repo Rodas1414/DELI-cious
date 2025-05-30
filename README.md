@@ -26,7 +26,7 @@ Welcome to **DELI-cious**, a Java-based Point-of-Sale (POS) application built fo
 
 ## 📸 Preview
 
-> ![GUI Screenshot](images/gui_preview.png)
+> ![GUI Screenshot](image/homegui.png)
 
 ---
 
@@ -46,8 +46,8 @@ Welcome to **DELI-cious**, a Java-based Point-of-Sale (POS) application built fo
 ```
 /src
   /ui               # Swing user interface
-  /model            # Core classes (Order, Sandwich, Drink, Chip)
-  /model/enums      # Size, Bread, Meats, Cheeses, Toppings, Sauces
+  /mode1           # Core classes (Order, Sandwich, Drink, Chip)
+  /mode1/enums      # Size, Bread, Meats, Cheeses, Toppings, Sauces
   /util             # Receipt generator
 /test               # Unit tests
 ```
@@ -140,8 +140,13 @@ Or run individual test files from your IDE.
 
 ## ✨ Screenshots
 
-> ![Order GUI](images/order_screen.png)
-> ![Receipt Sample](images/receipt_sample.png)
+> ![Order GUI](image/homegui.png)
+> ![Receipt Sample](image/receipt.png)
+> ![Step one(image/step 1.png)
+> ![Step 2(image/secoundway.png)
+> ![Step 3(image/step 3.png)
+> ![Step 4(image/step 4.png)
+> ![Step 5(image/step 5.png)
 
 ---
 
