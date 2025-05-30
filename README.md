@@ -9,7 +9,7 @@ Welcome to **DELI-cious**, a Java-based Point-of-Sale (POS) application built fo
 
 ## 📸 Preview
 
-> ![GUI Screenshot](image/homegui.png)
+> ![GUI Screenshot](image/home.png)
 
 ---
 
